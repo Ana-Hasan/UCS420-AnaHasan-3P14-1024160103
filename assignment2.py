@@ -23,3 +23,11 @@ print("List L after insertion 2 =", L)
 L.remove(n)
 L.pop(1)
 print("List L after removal and popping =", L)
+
+#1, iv
+L.sort()
+print("List L after sorting =", L)
+L.sort(reverse=True)
+print("List L after sorting in reverse =", L)
+
+#1, v
